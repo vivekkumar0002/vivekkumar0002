@@ -35,6 +35,14 @@ Building scalable web applications and exploring backend engineering.
 * Database Projects with PostgreSQL
 * Open Source Contributions
 
+## 🌐 Web3 Experience
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&width=800&lines=Aspiring+Full+Stack+Developer;Interested+in+Backend+Development;Active+in+the+Web3+Ecosystem;Exploring+Open+Source+and+Web3" />
+
+- Active participant in the Web3 ecosystem
+- Exploring on-chain applications and protocols
+- Participated in testnets and community programs
+- Following developments in DeFi, AI, and blockchain infrastructure
+
 ## 📊 GitHub 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vivekkumar0002&show_icons=true&theme=tokyonight)
 
