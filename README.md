@@ -1,11 +1,9 @@
 # Hi 👋, I'm Vivek Kumar Sahani
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=500&lines=Aspiring+Full+Stack+Developer;Building+Projects+Every+Day;Learning+React+and+Node.js)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=700&lines=Aspiring+Full+Stack+Developer;Building+real-world+web+applications;Interested+in+Backend+Development;Open+Source+Contributor;Exploring+Web3)](https://git.io/typing-svg)
 
 ### 🚀 Aspiring Full Stack Developer
 
-* 🌱 Learning React, Node.js, and PostgreSQL
-* 💻 Building real-world web applications
-* ⚡ Interested in Backend Development, Open Source, and Web3
+Building scalable web applications and exploring backend engineering.
 
 ## 🛠 Tech Stack
 
