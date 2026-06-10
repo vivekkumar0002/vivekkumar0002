@@ -1,4 +1,5 @@
 # Hi 👋, I'm Vivek Kumar Sahani
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=500&lines=Aspiring+Full+Stack+Developer;Building+Projects+Every+Day;Learning+React+and+Node.js)](https://git.io/typing-svg)
 
 ### 🚀 Aspiring Full Stack Developer
 
