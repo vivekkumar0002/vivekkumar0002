@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi 👋, I'm Vivek Kumar
 
-<!--
-**vivekkumar0002/vivekkumar0002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring Full Stack Developer
 
-Here are some ideas to get you started:
+* 🌱 Learning React, Node.js, and PostgreSQL
+* 💻 Building real-world web applications
+* ⚡ Interested in Backend Development, Open Source, and Web3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+### Languages
+
+* C++
+* JavaScript
+
+### Frontend
+
+* HTML
+* CSS
+* React
+
+### Backend
+
+* Node.js
+* Express.js
+
+### Databases
+
+* PostgreSQL
+* MongoDB
+
+## 🚀 Currently Building
+
+* Full Stack Web Development
+* Backend Engineering with Node.js
+* Database Projects with PostgreSQL
+* Open Source Contributions
+
+## 📊 GitHub Stats
+
+## 🎯 2026 Goals
+
+* Build 5+ Full Stack Projects
+* Master React & Node.js
+* Learn Docker and System Design
+* Land a Software Engineering Internship
+
+## 🌐 Connect With Me
+
+* GitHub: github.com/vivekkumar0002
+* LinkedIn: Add your LinkedIn
+* X/Twitter: Add your X handle
+
+> Code. Build. Learn. Repeat.
+
