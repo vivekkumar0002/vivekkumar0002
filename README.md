@@ -36,7 +36,6 @@ Building scalable web applications and exploring backend engineering.
 * Open Source Contributions
 
 ## 🌐 Web3 Experience
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&width=800&lines=Aspiring+Full+Stack+Developer;Interested+in+Backend+Development;Active+in+the+Web3+Ecosystem;Exploring+Open+Source+and+Web3" />
 
 - Active participant in the Web3 ecosystem
 - Exploring on-chain applications and protocols
