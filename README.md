@@ -48,8 +48,8 @@
 ## 🌐 Connect With Me
 
 * GitHub: github.com/vivekkumar0002
-* LinkedIn: Add your LinkedIn
-* X/Twitter: Add your X handle
+* LinkedIn: https://www.linkedin.com/in/vivek-kumar-45a23b2a4/
+* X/Twitter: https://x.com/08Vivekkumar
 
 > Code. Build. Learn. Repeat.
 
