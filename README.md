@@ -37,7 +37,7 @@
 * Open Source Contributions
 
 ## 📊 GitHub 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vivekkumar0002&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vivekkumar0002&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekkumar0002&layout=compact&theme=github_dark)
 
