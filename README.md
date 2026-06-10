@@ -36,7 +36,10 @@
 * Database Projects with PostgreSQL
 * Open Source Contributions
 
-## 📊 GitHub Stats
+## 📊 GitHub 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vivekkumar0002&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekkumar0002&layout=compact&theme=github_dark)
 
 ## 🎯 2026 Goals
 
